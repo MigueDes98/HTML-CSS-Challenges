@@ -133,6 +133,12 @@ transition: all 1s ease;
 .giraffe p {color: #BEEE62;}
 .giraffe > .first {font-size: larger;}
 
+#harpy1 {margin: 30px;
+border: 5px solid purple;}
+#harpy2 {margin: 30px;
+border:  5px solid purple;}
+.harpys > h2, h3 {color: purple;}
+
 .news {text-align: center;}
 
 .card {
